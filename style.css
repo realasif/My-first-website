@@ -1,0 +1,67 @@
+body{
+  font-family: 'Lato', sans-serif;
+  margin: 0%;
+   
+}
+
+h1{
+  font-size: 50px;
+}
+.half-width{
+  width: 40%;
+  margin-left: 5%;
+  padding-top: 2%;
+  float: left;
+  }
+  .half-width img{
+    width: 100%;
+  }
+  .top-side{
+  
+    background-color: aqua;
+    background-repeat: no-repeat;
+  }
+  section{
+    height: 600px;
+    
+  }
+  .button{
+    text-decoration: none;
+    background-color: rgb(255, 0, 162);
+    padding: 5px 10px;
+    
+  }
+  .med-banner{
+    background-color: rgb(250, 188, 1);
+    
+  }
+  .m-batton{
+    background-color: rgb(235, 81, 15);
+    text-decoration: none;
+    padding: 5px 10px;
+    color: rgb(0, 0, 0);
+  }
+  h2{
+    font-size: 35px;
+  }
+  .exp-color{
+    color: orange;
+  }
+  .single-xp{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 300px;
+  }
+  #full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon, tomato);
+    border-image-slice: 1;
+  }
+  #baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(17, 211, 255), rgb(15, 68, 227));
+    border-image-slice: 1;
+  }
+  footer{
+    text-align: center;
+  }
